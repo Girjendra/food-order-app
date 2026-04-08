@@ -23,17 +23,6 @@ An Android application built using **Kotlin** that allows users to enter food or
 
 ## 📱 Screenshots
 
-### 🏠 Home Screen
-
-![Home](screenshots/home.png)
-
-### 📝 Order Filled Screen
-
-![Filled](screenshots/filled_form.png)
-
-### ✅ Order Summary Screen
-
-![Summary](screenshots/order_summary.png)
 
 
 ---
